@@ -1,2 +1,2 @@
 # young-boy-course
-Tasks from python young boy course : usage of regex , yarn
+Tasks from python young boy course : usage of libraries regex , yargy , pymorphy2.
